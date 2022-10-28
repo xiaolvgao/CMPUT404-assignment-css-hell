@@ -1,0 +1,25 @@
+body{
+    /* image from :https://fixthephoto.com/free-paper-texture-photoshop */
+    background-image: url("bg.jpg");
+}
+
+p{
+    text-align: center;
+    font-style: oblique;
+}
+h1, h2{
+    font-size: 60px;
+    font-family: "Times New Roman", Times, serif;
+    color: black;
+}
+
+h3{
+    font-size: 50px;
+    font-family: "Papyrus", Fantasy;
+    color: #8B4513;
+
+}
+img{
+    border-radius: 8px;
+    margin: auto;
+}

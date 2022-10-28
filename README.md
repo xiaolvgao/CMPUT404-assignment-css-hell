@@ -21,4 +21,9 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
+</br>
 
+Modifications To Part1
+========================
+I use old paper-like image as the background.
+Change headline test font size and color, and adject the paragraphs align center
